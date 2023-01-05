@@ -1,1 +1,1 @@
-print('Thamonwan Wutticharoenrat 630710655')
+Thamonwan Wutticharoenrat 630710655
